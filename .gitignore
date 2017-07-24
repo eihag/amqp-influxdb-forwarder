@@ -1,4 +1,4 @@
-# Byte-compiled / optimized / DLL files
+requirements.txt# Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
@@ -99,3 +99,5 @@ ENV/
 
 # mypy
 .mypy_cache/
+/config.properties
+.idea/
