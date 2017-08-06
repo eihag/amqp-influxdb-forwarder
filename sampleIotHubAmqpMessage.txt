@@ -1,0 +1,16 @@
+
+Message{
+    content_encoding="",
+    annotations={:"iothub-connection-device-id"="OutdoorSensor",
+                 :"iothub-connection-auth-method"="{"scope":"device","type":"sas","issuer":"iothub","acceptingIpFilterRule":null}",
+                 :"iothub-connection-auth-generation-id"="636355638227123442", :"iothub-enqueuedtime"=1500929907220,
+                 :"iothub-message-source"="Telemetry", :"x-opt-sequence-number"=28984, :"x-opt-offset"="15705936",
+                 :"x-opt-enqueued-time"=1500929906468}, properties={},
+    body="{"time" : "2017-07-24 20:58:26",
+           "model" : "Ambient Weather F007TH Thermo-Hygrometer",
+           "device" : 77,
+           "channel" : 2,
+           "battery" : "Ok",
+           "temperature_C" : 17.611,
+           "humidity" : 91}"
+}
