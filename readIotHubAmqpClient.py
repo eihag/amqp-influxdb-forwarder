@@ -11,7 +11,7 @@ import logging
 import time
 
 # Config file must be bound to docker image at runtime
-CONFIG_FILE_PATH = 'config.properties'
+CONFIG_FILE_PATH = 'config/config.properties'
 
 FORMAT = '%(asctime)s - %(levelname)s - %(message)s'
 logging.basicConfig(level=logging.INFO, format=FORMAT)
